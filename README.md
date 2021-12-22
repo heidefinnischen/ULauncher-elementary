@@ -21,4 +21,4 @@ This is what the theme looks like on a desktop with a few open windows. It integ
 The preferences button is hidden until you need it. To find it just hover above the right end of the search bar. The clickable gear will appear and lead you to the preferences pane.
 
 # Installation
-Clone this repository to `~/.config/ulauncher/user-themes/`
+Clone this repository to  `~/.config/ulauncher/user-themes/`
