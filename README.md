@@ -27,5 +27,10 @@ Clone this repository to  `~/.config/ulauncher/user-themes/`
 
 # Related themes
 
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/preview.png?raw=true" width="300"/>
-Light Theme: https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme
+<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme">
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/preview.png?raw=true" width="300"/> 
+</a>
+
+<br>
+
+<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme"> Light Theme </a>
