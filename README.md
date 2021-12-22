@@ -23,7 +23,7 @@ The preferences button is hidden until you need it. To find it just hover above 
 
 # Installation
 
-Save "Odin_Dark" to  `~/.config/ulauncher/user-themes/`
+Copy "Odin_Dark" to  `~/.config/ulauncher/user-themes/`
 
 # Related themes
 
