@@ -2,7 +2,7 @@
 
 A dark ULauncher Theme meant for elementaryOS Odin and up
 
-<img src="https://user-images.githubusercontent.com/58484745/147141372-a5f09f36-d2ba-41a0-9b12-2f8f1fddab62.png" width="600" />
+<img src="https://raw.githubusercontent.com/heidefinnischen/ULauncher-elementary_Dark_Theme/main/Resources/preview.png" width="600" />
 
 This is a theme for ULauncher. An application launcher for Linux. 
 
@@ -12,23 +12,23 @@ This theme was designed with elementaryOS in mind. It carefully recreates the lo
 
 # Desktop
 
-<img src="https://raw.githubusercontent.com/heidefinnischen/ULauncher-elementary_Dark_Theme/main/desktop_dark.png"/>
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme/blob/main/Resources/desktop_dark.png"/>
 
 This is what the theme looks like on a desktop with a few open windows. It integrates seamlessly with the rest of the applications.
 
 # Accessing preferences
 
-<img src="https://user-images.githubusercontent.com/58484745/147143383-ed0ede0b-80e0-46ba-a7b5-403f83451b27.png" width="600" />
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Dark_Theme/blob/main/Resources/hidden_preferences.png" width="600" />
 The preferences button is hidden until you need it. To find it just hover above the right end of the search bar. The clickable gear will appear and lead you to the preferences pane.
 
 # Installation
 
-Clone this repository to  `~/.config/ulauncher/user-themes/`
+Save "Odin_Dark" to  `~/.config/ulauncher/user-themes/`
 
 # Related themes
 
 <a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme">
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/preview.png?raw=true" width="300"/> 
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/Resources/preview.png" width="300"/> 
 </a>
 
 <br>
