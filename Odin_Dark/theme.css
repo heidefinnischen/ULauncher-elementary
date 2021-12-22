@@ -48,7 +48,7 @@
     background-color: @window_bg;
     border-radius: 7px;
     border: 1px solid @window_inner_border_color;
-    box-shadow: 0 8px 10px 0px rgba(0,0,0,.8), 
+    box-shadow: 0 8px 10px 0px rgba(0,0,0,.8), /* .5 for light, .8 for dark */
                 0 0 0 1px @window_outer_border_color;
     margin: 0px 5px 30px 5px;
 }
@@ -57,10 +57,10 @@
     font-size: 33px;
     font-weight: 600;
     color: @input_color;
-    
+
     margin: -10px -54px -10px -15px;
     padding-left: 15px; /*Fix for cut off selection box*/
-    
+
     /*Text Box*/
     background-color: @input_text_box_color;
     border-radius: 3px;
@@ -93,12 +93,12 @@
 
 .selected.item-box {
     /*background-color: @item_box_selected;*/
-    background: linear-gradient(180deg, 
-                rgba(0,0,0,0) 0%, 
-                rgba(0,0,0,0) 10%, 
-                @item_box_selected 10%, 
-                @item_box_selected 93%, 
-                rgba(0,0,0,0) 93%, 
+    background: linear-gradient(180deg,
+                rgba(0,0,0,0) 0%,
+                rgba(0,0,0,0) 10%,
+                @item_box_selected 10%,
+                @item_box_selected 93%,
+                rgba(0,0,0,0) 93%,
                 rgba(0,0,0,0) 100%);  /*special fix to make the selection box smaller than the actual item box without editing the source code so it doesnt overlap with the window corners on the bottom. Make the top and bottom parts of the gradient the same width if you have removed the dividers*/
 }
 
@@ -113,22 +113,22 @@
 .item-shortcut {
     color: @item_shortcut_color;
     text-shadow: 0 0; /*remove shadow from default theme*/
-    
+
     background-color: @item_shortcut_box_color;
     box-shadow: 0 1px 0px @item_shortcut_box_shadow;
-    
+
     margin: 16px 3px; /*resizing shortcut box*/
     padding-top: 1px; /*recentering text because size 10 font makes text jump up one pixel*/
     border-radius: 3px;
     font-size: 10px;
     font-weight: 300;
-    
+
 }
 
 .selected.item-box .item-shortcut {
     color: @item_shortcut_color_sel;
     text-shadow: 0 0; /*remove shadow from default theme*/
-    
+
     background-color: @item_shortcut_box_color_sel;
     box-shadow: 0 1px 0px @item_shortcut_box_shadow_sel;
 }
