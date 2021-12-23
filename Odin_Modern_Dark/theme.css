@@ -137,7 +137,7 @@
 }
 
 .prefs-btn:hover {
-    background-color: @input_text_box_color; /*to make background only visible when text is behind it*/
+    background-color: @bg_color; /*to make background only visible when text is behind it*/
     opacity: 1; /*different opacity values for dark and light. Light: 0.3, Dark: 1 */
 }
 
