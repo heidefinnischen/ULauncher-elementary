@@ -60,4 +60,4 @@ While both get rid of the seperators between list entries, the superflat theme a
 :-:|:-:
 <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Dark_preview.png" width="350" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Dark_preview.png" width="350" />
 
-<br> <a href="https://github.com/heidefinnischen/ULauncher-elementary_Flat"> Flat elementary OS Themes for ULauncher</a>
+<a href="https://github.com/heidefinnischen/ULauncher-elementary_Flat"> Flat elementary OS Themes for ULauncher</a>
