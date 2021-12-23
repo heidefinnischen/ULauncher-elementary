@@ -1,3 +1,5 @@
+/* Odin Dark Theme*/
+
 /**
  * App Window
  */
@@ -82,7 +84,7 @@
     color: @item_text;
     font-size: 12px;
     font-weight: 400;
-    margin-left: -10px; /*To move text left because of moved icons*/
+    margin-left: -13px; /*To move text left because of moved icons*/
 }
 .item-name {
     color: @item_name;
@@ -150,7 +152,7 @@
  * Custom for Odin Theme
  */
 .item-icon {
-    margin-left: -20px; /*finally moving the icons to the left and bringing them in line*/
+    margin-left: -25px; /*finally moving the icons to the left and bringing them in line*/
 }
 
 .item-container {
