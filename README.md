@@ -56,10 +56,8 @@ Copy desired theme(s) (for example "Odin_Modern_Light") to  `~/.config/ulauncher
 I have also made another four themes for ULauncher. They are also designed for elementary OS but they are a bit flatter, simpler and more modern. <p>
 While both get rid of the seperators between list entries, the superflat theme also removes the seperator between the input box and the list entries. I recommend superflat for people who want a good looking theme without any performance penalties. While I am sure all themes wont be heavy on your resources at all, superflat is definitely the lightest out of all my themes in terms of code size.
 
-<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme">
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme/blob/main/Resources/preview.png" width="300"/> 
-</a>
+  Odin Flat | Odin Superflat
+:-:|:-:
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Dark_preview.png" width="350" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Dark_preview.png" width="350" />
 
-<br>
-
-<a href="https://github.com/heidefinnischen/ULauncher-elementary_Light_Theme"> Flat elementary OS Themes for ULauncher</a>
+<br> <a href="https://github.com/heidefinnischen/ULauncher-elementary_Flat"> Flat elementary OS Themes for ULauncher</a>
