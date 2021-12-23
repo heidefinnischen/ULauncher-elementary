@@ -62,6 +62,7 @@
 
     margin: -10px -54px -10px -15px;
     padding-left: 15px; /*Fix for cut off selection box*/
+    padding-right: 55px; /*Making space for the prefs button*/
 
     /*Text Box*/
     background-color: @input_text_box_color;
@@ -141,7 +142,7 @@
 }
 
 .prefs-btn:hover {
-    background-color: rgba(0,0,0,0); /*to remove background*/
+    background-color: @bg_color; /*to make background only visible when text is behind it*/
     opacity: 1; /*different opacity values for dark and light. Light: 0.3, Dark: 1 */
 }
 
