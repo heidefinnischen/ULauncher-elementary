@@ -5,13 +5,13 @@ Four ULauncher themes crafted for elementaryOS Odin and newer
 ![Preview Dark](https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Dark_preview.png#gh-dark-mode-only)
 ![Preview Light](https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Light_preview.png#gh-light-mode-only)
 
-Odin Dark | Odin Light
+Odin Light | Odin Dark
 :-:|:--:
-<img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Dark_preview.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Light_preview.png" width="550" />
+<img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Light_thumb.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Dark_thumb.png" width="550" />
 
-Odin Modern Dark | Odin Modern Light
+Odin Modern Light | Odin Modern Dark
 :-:|:-:
-<img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Modern_Dark_preview.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Modern_Light_preview.png" width="550" />
+<img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Light_thumb.png" width="550" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/thumbs/Odin_Modern_Dark_thumb.png" width="550" />
 
 These are themes for ULauncher. An application launcher for Linux. 
 
@@ -56,8 +56,8 @@ Copy desired theme(s) (for example "Odin_Modern_Light") to  `~/.config/ulauncher
 I have also made another four themes for ULauncher. They are also designed for elementary OS but they are a bit flatter, simpler and more modern. <p>
 While both get rid of the seperators between list entries, the superflat theme also removes the seperator between the input box and the list entries. I recommend superflat for people who want a good looking theme without any performance penalties. While I am sure all themes wont be heavy on your resources at all, superflat is definitely the lightest out of all my themes in terms of code size.
 
-  Odin Flat | Odin Superflat
-:-:|:-:
-<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Flat_Dark_preview.png" width="350" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Light_preview.png" width="350" /> <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/raw/main/Resources/Odin_Superflat_Dark_preview.png" width="350" />
+  Odin Flat Light | Odin Flat Dark | Odin Superflat Light | Odin Superflat Dark
+:-:|:-:|:-:|:-:
+<img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Flat_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Flat_dark_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Superflat_Light_thumb.png" width="250" /> | <img src="https://github.com/heidefinnischen/ULauncher-elementary_Flat/blob/main/Resources/thumbs/Odin_Superflat_Dark_thumb.png" width="250" />
 
 <a href="https://github.com/heidefinnischen/ULauncher-elementary_Flat"> Flat elementary OS Themes for ULauncher</a>
