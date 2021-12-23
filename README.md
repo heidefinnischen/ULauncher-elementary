@@ -1,14 +1,14 @@
-# ULauncher Theme - elementaryOS Odin Dark
+# elementary OS Themes for ULauncher
 
-A dark ULauncher Theme meant for elementaryOS Odin and up
+Four ULauncher themes crafted for elementaryOS Odin and newer
 
 <img src="https://raw.githubusercontent.com/heidefinnischen/ULauncher-elementary_Dark_Theme/main/Resources/preview.png" width="600" />
 
-This is a theme for ULauncher. An application launcher for Linux. 
+Theses are themes for ULauncher. An application launcher for Linux. 
 
-https://ulauncher.io
+Get it here: https://ulauncher.io
 
-This theme was designed with elementaryOS in mind. It carefully recreates the look and feel of the Pantheon Desktop Environment, while still retaining some uniqueness.
+These themes were designed with elementaryOS in mind. Of course they still work on other distributions. They carefully recreate the look and feel of the Pantheon Desktop Environment, while still retaining some uniqueness.
 
 # Desktop
 
