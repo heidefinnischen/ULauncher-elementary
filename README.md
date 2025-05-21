@@ -1,6 +1,6 @@
 # elementary OS Themes for ULauncher
 
-Four ULauncher themes crafted for elementaryOS Odin and newer
+Four ULauncher themes crafted for elementary OS Odin and newer
 
 ![Preview Dark](https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Dark_preview.png#gh-dark-mode-only)
 ![Preview Light](https://github.com/heidefinnischen/ULauncher-elementary/blob/main/Resources/Odin_Light_preview.png#gh-light-mode-only)
